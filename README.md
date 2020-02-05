@@ -1,0 +1,2 @@
+# logicalProgarmmingPhp
+All logical Questions
